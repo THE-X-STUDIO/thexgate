@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: thexgate
+    name: thexstudio-gate
     runtime: python
     plan: free
     region: singapore
