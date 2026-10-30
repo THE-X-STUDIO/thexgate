@@ -1,0 +1,1474 @@
+[
+  {
+    "wallet": "8w3zQxFWAWjRYfPrNBkuq6E7BdK9APLxPwz4q3uFyH8Q",
+    "n_trades": 18,
+    "n_buys": 9,
+    "n_sells": 9,
+    "volume_usd": 969.83,
+    "buy_ratio": 0.5,
+    "n_closed": 14,
+    "win_rate": 85.7,
+    "pf": 31.95,
+    "avg_ret": 0.4,
+    "pnl_sol": 0.0265,
+    "avg_hold_min": -8.3,
+    "closed_trades": [
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.0012960250974509702,
+        "pnl_sol": 0.0010568169999999322,
+        "hold_sec": 51
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.001586773856012691,
+        "pnl_sol": 0.0005398140710042298,
+        "hold_sec": -50
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.0008800511333291183,
+        "pnl_sol": -0.0005251090000000236,
+        "hold_sec": 54
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.0009124702256546602,
+        "pnl_sol": -0.000459570683947641,
+        "hold_sec": -376
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.0004875299018258783,
+        "pnl_sol": 0.0003578028660393695,
+        "hold_sec": -267
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.00168801659287654,
+        "pnl_sol": 0.0014034051148628102,
+        "hold_sec": -581
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.003238691841135566,
+        "pnl_sol": 0.0007133119999999937,
+        "hold_sec": 59
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.0031081764793319255,
+        "pnl_sol": 0.0010528273896801,
+        "hold_sec": -259
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.008190595482429952,
+        "pnl_sol": 0.0047917900403771085,
+        "hold_sec": -368
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.012259877915901107,
+        "pnl_sol": 0.0031261873968013165,
+        "hold_sec": -564
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.0018914547344164312,
+        "pnl_sol": 0.0014275841215422025,
+        "hold_sec": -461
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.011236499479326145,
+        "pnl_sol": 0.004972644520806924,
+        "hold_sec": -1202
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.008084442348279541,
+        "pnl_sol": 0.005263874896677789,
+        "hold_sec": -1309
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.0041955058923075494,
+        "pnl_sol": 0.0028005063406885133,
+        "hold_sec": -1718
+      }
+    ],
+    "source": "rpc"
+  },
+  {
+    "wallet": "GdTrKUg6Cf7rwc2CVSPVSsHFn8vN2JVcS9cqNEq3PoMn",
+    "n_trades": 18,
+    "n_buys": 9,
+    "n_sells": 9,
+    "volume_usd": 980.14,
+    "buy_ratio": 0.5,
+    "n_closed": 9,
+    "win_rate": 88.9,
+    "pf": 6.46,
+    "avg_ret": 0.19,
+    "pnl_sol": 1.12,
+    "avg_hold_min": 0.9,
+    "closed_trades": [
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.0007557335056378456,
+        "pnl_usd": 0.057816277138542205,
+        "hold_sec": 53
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.0029266160200402958,
+        "pnl_usd": 0.2659411407237968,
+        "hold_sec": 56
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.00032990418864220494,
+        "pnl_usd": 0.02041781499291062,
+        "hold_sec": 56
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.0030926470827333796,
+        "pnl_usd": -0.1003499526583127,
+        "hold_sec": 56
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.0019547555864554145,
+        "pnl_usd": 0.14344082967072325,
+        "hold_sec": 51
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.0026930485283040984,
+        "pnl_usd": 0.11675107376136395,
+        "hold_sec": 46
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.006590646030604441,
+        "pnl_usd": 0.5356467957618634,
+        "hold_sec": 48
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.0036375259533834026,
+        "pnl_usd": 0.06613590926080448,
+        "hold_sec": 56
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.00108772322366546,
+        "pnl_usd": 0.012629361891459467,
+        "hold_sec": 58
+      }
+    ],
+    "source": "gecko"
+  },
+  {
+    "wallet": "6dhXWunn9ypvxXo8NHBzXfxSA4NP4u4EBF2KvPPTv4uK",
+    "n_trades": 14,
+    "n_buys": 7,
+    "n_sells": 7,
+    "volume_usd": 494.09,
+    "buy_ratio": 0.5,
+    "n_closed": 7,
+    "win_rate": 71.4,
+    "pf": 2.97,
+    "avg_ret": 0.19,
+    "pnl_sol": 0.47,
+    "avg_hold_min": 1.8,
+    "closed_trades": [
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.0023659738626611304,
+        "pnl_usd": 0.08862787725011145,
+        "hold_sec": 72
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.006756374527627784,
+        "pnl_usd": 0.2492759148246293,
+        "hold_sec": 40
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.004591111473719156,
+        "pnl_usd": 0.1680364926932043,
+        "hold_sec": 58
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.0014418310427755099,
+        "pnl_usd": -0.052267875132457675,
+        "hold_sec": 62
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.005171078486116754,
+        "pnl_usd": -0.1840179465212728,
+        "hold_sec": 87
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.005905170129547388,
+        "pnl_usd": 0.20509753166452072,
+        "hold_sec": 51
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 7.24314582956076e-06,
+        "pnl_usd": 0.00017383319085340077,
+        "hold_sec": 384
+      }
+    ],
+    "source": "gecko"
+  },
+  {
+    "wallet": "78pyMZvFBvwUwcTffSpU91v9iDeSkvHWJGjsUQr2XgBZ",
+    "n_trades": 18,
+    "n_buys": 9,
+    "n_sells": 9,
+    "volume_usd": 500.73,
+    "buy_ratio": 0.5,
+    "n_closed": 9,
+    "win_rate": 44.4,
+    "pf": 2.25,
+    "avg_ret": 0.13,
+    "pnl_sol": 0.0082,
+    "avg_hold_min": -9.5,
+    "closed_trades": [
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.001963131775094995,
+        "pnl_sol": -0.001157328944595748,
+        "hold_sec": -51
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.0036165785298231112,
+        "pnl_sol": -0.0004101861312785643,
+        "hold_sec": -54
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.0014591813004889431,
+        "pnl_sol": -0.00039754233071764844,
+        "hold_sec": -577
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.0006659587062661787,
+        "pnl_sol": -8.885360817642574e-05,
+        "hold_sec": -470
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.0023223866023496242,
+        "pnl_sol": 0.0005688145758733776,
+        "hold_sec": -880
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.010176897128985951,
+        "pnl_sol": 0.004414267159142671,
+        "hold_sec": -1191
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.005730184206521827,
+        "pnl_sol": 0.00483871249760548,
+        "hold_sec": -1723
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.002145880247629295,
+        "pnl_sol": 0.0012973141304519764,
+        "hold_sec": -49
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.0013680390763507466,
+        "pnl_sol": -0.0009048805651475922,
+        "hold_sec": -159
+      }
+    ],
+    "source": "rpc"
+  },
+  {
+    "wallet": "FHpcNSe6tb2n15bAdq4BkeYWGyZKFD7yLYrH92ng7wCT",
+    "n_trades": 53,
+    "n_buys": 30,
+    "n_sells": 23,
+    "volume_usd": 2049.74,
+    "buy_ratio": 0.566,
+    "n_closed": 17,
+    "win_rate": 17.6,
+    "pf": 0.53,
+    "avg_ret": -1.47,
+    "pnl_sol": 25.3,
+    "avg_hold_min": 161.5,
+    "closed_trades": [
+      {
+        "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+        "return": -0.04109897827899445,
+        "pnl_usd": -0.3973892717740952,
+        "hold_sec": 41
+      },
+      {
+        "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+        "return": -0.04110043106106809,
+        "pnl_usd": -0.028819040167729848,
+        "hold_sec": 43
+      },
+      {
+        "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+        "return": -0.04303412323892797,
+        "pnl_usd": -2.3534032438187467,
+        "hold_sec": 437
+      },
+      {
+        "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+        "return": -0.04153676757344471,
+        "pnl_usd": -0.043194537463527416,
+        "hold_sec": 2775
+      },
+      {
+        "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+        "return": -0.040077381270160584,
+        "pnl_usd": -7.066801863826157,
+        "hold_sec": 5201
+      },
+      {
+        "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+        "return": -0.01188838069638709,
+        "pnl_usd": -0.09365403075910628,
+        "hold_sec": 19893
+      },
+      {
+        "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+        "return": -0.008952006836814297,
+        "pnl_usd": -0.01436139193646846,
+        "hold_sec": 26708
+      },
+      {
+        "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+        "return": -0.04003486016671809,
+        "pnl_usd": -0.04142610213829523,
+        "hold_sec": 50579
+      },
+      {
+        "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+        "return": -0.04049240592295722,
+        "pnl_usd": -4.199686052945523,
+        "hold_sec": 50996
+      },
+      {
+        "mint": "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw",
+        "return": 0.045570151012426674,
+        "pnl_usd": 0.29877711302903176,
+        "hold_sec": 1901
+      },
+      {
+        "mint": "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr",
+        "return": 0.059952869122125385,
+        "pnl_usd": 16.723902766785272,
+        "hold_sec": 977
+      },
+      {
+        "mint": "ASX4GtetW337jwG2rLZaU84eY64rRCoWbf63yXQepump",
+        "return": -0.09249274593195411,
+        "pnl_usd": -0.8399571535609685,
+        "hold_sec": 728
+      },
+      {
+        "mint": "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw",
+        "return": 0.18011346826615604,
+        "pnl_usd": 25.381993928740116,
+        "hold_sec": 3584
+      },
+      {
+        "mint": "ASX4GtetW337jwG2rLZaU84eY64rRCoWbf63yXQepump",
+        "return": -0.013905794541069882,
+        "pnl_usd": -0.007085652503574957,
+        "hold_sec": 28
+      },
+      {
+        "mint": "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr",
+        "return": -0.031864719294073196,
+        "pnl_usd": -0.3368229909562448,
+        "hold_sec": 154
+      },
+      {
+        "mint": "ASX4GtetW337jwG2rLZaU84eY64rRCoWbf63yXQepump",
+        "return": -0.08064569930966015,
+        "pnl_usd": -1.1814842250427073,
+        "hold_sec": 587
+      },
+      {
+        "mint": "ASX4GtetW337jwG2rLZaU84eY64rRCoWbf63yXQepump",
+        "return": -0.00894765688578758,
+        "pnl_usd": -0.5045027406322831,
+        "hold_sec": 93
+      }
+    ],
+    "source": "gecko"
+  },
+  {
+    "wallet": "uce4gWJvjPic1b4QrU4BqaiYdM7v6a1o1HE2NYFVaz8",
+    "n_trades": 18,
+    "n_buys": 9,
+    "n_sells": 9,
+    "volume_usd": 550.97,
+    "buy_ratio": 0.5,
+    "n_closed": 11,
+    "win_rate": 18.2,
+    "pf": 0.16,
+    "avg_ret": -0.35,
+    "pnl_sol": -0.0141,
+    "avg_hold_min": -12.1,
+    "closed_trades": [
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.004018798649648714,
+        "pnl_sol": -0.0012754300000000218,
+        "hold_sec": 49
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.004133585829959818,
+        "pnl_sol": -0.0005043924588204601,
+        "hold_sec": -153
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.006067509803135973,
+        "pnl_sol": -0.002068441147812128,
+        "hold_sec": -253
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.0062855695577667126,
+        "pnl_sol": -0.0009386331289497063,
+        "hold_sec": -356
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.0055382769499164874,
+        "pnl_sol": -0.0017726619062951587,
+        "hold_sec": -465
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.002264642800375416,
+        "pnl_sol": -0.0008631701300267913,
+        "hold_sec": -559
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.006513422111387612,
+        "pnl_sol": 0.0009756560041873363,
+        "hold_sec": -777
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.00790784714676307,
+        "pnl_sol": -0.0029586037982556324,
+        "hold_sec": -670
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.0006189809546095493,
+        "pnl_sol": 0.0003194344926928938,
+        "hold_sec": -1186
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.003868394362795069,
+        "pnl_sol": -0.0013156139482726203,
+        "hold_sec": -1726
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.005441836079204898,
+        "pnl_sol": -0.0037407167536037678,
+        "hold_sec": -1922
+      }
+    ],
+    "source": "rpc"
+  },
+  {
+    "wallet": "RRENyrgM94E1Ep1SxvqrfwCKDRkfYwHZE2qtnCs3EQD",
+    "n_trades": 18,
+    "n_buys": 9,
+    "n_sells": 9,
+    "volume_usd": 1012.67,
+    "buy_ratio": 0.5,
+    "n_closed": 10,
+    "win_rate": 20.0,
+    "pf": 0.03,
+    "avg_ret": -1.18,
+    "pnl_sol": -0.0638,
+    "avg_hold_min": -6.8,
+    "closed_trades": [
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.014231155185670974,
+        "pnl_sol": -0.0062627663300873215,
+        "hold_sec": -475
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.014309513754223624,
+        "pnl_sol": -0.010526549189173506,
+        "hold_sec": -57
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.016825338651185073,
+        "pnl_sol": -0.004444868096184662,
+        "hold_sec": -158
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.0015616041008104098,
+        "pnl_sol": 0.0013518627214290646,
+        "hold_sec": -676
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": 0.0020900673827979332,
+        "pnl_sol": 0.0008931079766935079,
+        "hold_sec": -783
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.013020743204619767,
+        "pnl_sol": -0.007540186657033265,
+        "hold_sec": -50
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.013187447963436849,
+        "pnl_sol": -0.011373041936214578,
+        "hold_sec": -156
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.01594869158870793,
+        "pnl_sol": -0.013102635558293607,
+        "hold_sec": -577
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.018448810287386985,
+        "pnl_sol": -0.004172551078500647,
+        "hold_sec": -483
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.015428241021802291,
+        "pnl_sol": -0.008585949482362132,
+        "hold_sec": -673
+      }
+    ],
+    "source": "rpc"
+  },
+  {
+    "wallet": "AbMx8MCyFzqUgnXKAGaFLParZHU6Tiiz1PSU9BHCx8kK",
+    "n_trades": 18,
+    "n_buys": 9,
+    "n_sells": 9,
+    "volume_usd": 922.27,
+    "buy_ratio": 0.5,
+    "n_closed": 11,
+    "win_rate": 0.0,
+    "pf": 0.0,
+    "avg_ret": -2.15,
+    "pnl_sol": -0.1684,
+    "avg_hold_min": -15.3,
+    "closed_trades": [
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.024671241207039785,
+        "pnl_sol": -0.01890771270525493,
+        "hold_sec": -63
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.02488189151942577,
+        "pnl_sol": -0.021030397007217094,
+        "hold_sec": -576
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.02280520986610235,
+        "pnl_sol": -0.01879356449787095,
+        "hold_sec": -470
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.01201875727758972,
+        "pnl_sol": -0.006598817891874664,
+        "hold_sec": -264
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.012270729161719007,
+        "pnl_sol": -0.008431083352358981,
+        "hold_sec": -357
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.01975729927534542,
+        "pnl_sol": -0.012369675224078502,
+        "hold_sec": -881
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.02248162373116458,
+        "pnl_sol": -0.02016622445203664,
+        "hold_sec": -1203
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.02505998522216557,
+        "pnl_sol": -0.008951972412882592,
+        "hold_sec": -1311
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.024213359136135204,
+        "pnl_sol": -0.020341086775546358,
+        "hold_sec": -1507
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.024894849642723038,
+        "pnl_sol": -0.013443357585539273,
+        "hold_sec": -1616
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.023274082739528468,
+        "pnl_sol": -0.019372213716170705,
+        "hold_sec": -1820
+      }
+    ],
+    "source": "rpc"
+  },
+  {
+    "wallet": "E5oxjKxNLz3xaTN6jtmyUKvyny4RuKWHTHfgEBotXm3C",
+    "n_trades": 18,
+    "n_buys": 9,
+    "n_sells": 9,
+    "volume_usd": 649.62,
+    "buy_ratio": 0.5,
+    "n_closed": 6,
+    "win_rate": 0.0,
+    "pf": 0.0,
+    "avg_ret": -1.76,
+    "pnl_sol": -0.0638,
+    "avg_hold_min": -7.7,
+    "closed_trades": [
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.023801426542451543,
+        "pnl_sol": -0.018050559017057544,
+        "hold_sec": -53
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.02099716651767447,
+        "pnl_sol": -0.017250822878988603,
+        "hold_sec": -252
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.014888519107171594,
+        "pnl_sol": -0.0021340200403581477,
+        "hold_sec": -460
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.008737394632345241,
+        "pnl_sol": -0.007701281370199431,
+        "hold_sec": -570
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.017361700543077063,
+        "pnl_sol": -0.0050803548899862605,
+        "hold_sec": -467
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.01988105688388475,
+        "pnl_sol": -0.013574675387682533,
+        "hold_sec": -987
+      }
+    ],
+    "source": "rpc"
+  },
+  {
+    "wallet": "BVEc86AvJ5MtKUNJV4s9udX5V2L19772g4WS1CXYUCwC",
+    "n_trades": 18,
+    "n_buys": 9,
+    "n_sells": 9,
+    "volume_usd": 817.07,
+    "buy_ratio": 0.5,
+    "n_closed": 7,
+    "win_rate": 0.0,
+    "pf": 0.0,
+    "avg_ret": -1.43,
+    "pnl_sol": -0.0393,
+    "avg_hold_min": -9.8,
+    "closed_trades": [
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.017235810654063655,
+        "pnl_sol": -0.005349043722894409,
+        "hold_sec": -469
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.019503843373659957,
+        "pnl_sol": -0.012580407663933424,
+        "hold_sec": -571
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.011843363416294106,
+        "pnl_sol": -0.004221141889331148,
+        "hold_sec": -258
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.01603690359720722,
+        "pnl_sol": -0.006108279622934976,
+        "hold_sec": -368
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.0038503838493876286,
+        "pnl_sol": -0.0006144330270702048,
+        "hold_sec": -465
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.012663095284422665,
+        "pnl_sol": -0.0023560317339021974,
+        "hold_sec": -676
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.018980491674498556,
+        "pnl_sol": -0.008097184446152983,
+        "hold_sec": -1310
+      }
+    ],
+    "source": "rpc"
+  },
+  {
+    "wallet": "ByWGWuwrJBpoCy8G28DmQ7cAaaC6HrpAnhtbVcsnqzLa",
+    "n_trades": 18,
+    "n_buys": 9,
+    "n_sells": 9,
+    "volume_usd": 835.26,
+    "buy_ratio": 0.5,
+    "n_closed": 9,
+    "win_rate": 0.0,
+    "pf": 0.0,
+    "avg_ret": -0.83,
+    "pnl_sol": -3.8,
+    "avg_hold_min": 0.9,
+    "closed_trades": [
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.006263938389984625,
+        "pnl_usd": -0.09179428641548171,
+        "hold_sec": 49
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.008648854859706234,
+        "pnl_usd": -0.15162110747564483,
+        "hold_sec": 55
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.010576445215267571,
+        "pnl_usd": -0.9557748136767827,
+        "hold_sec": 46
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.015188862461090302,
+        "pnl_usd": -1.240441117556017,
+        "hold_sec": 58
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.007111158442636656,
+        "pnl_usd": -0.31597605459534606,
+        "hold_sec": 50
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.007178326496210863,
+        "pnl_usd": -0.13302191103216998,
+        "hold_sec": 55
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.003620237102044066,
+        "pnl_usd": -0.31201352518456815,
+        "hold_sec": 42
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.0059903188127055085,
+        "pnl_usd": -0.06890692519099595,
+        "hold_sec": 61
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.009739642567123452,
+        "pnl_usd": -0.5323357069076238,
+        "hold_sec": 45
+      }
+    ],
+    "source": "gecko"
+  },
+  {
+    "wallet": "DQ6Fv5RGUp4a9fArTUcDSN3TE1YFBAMkXaJKhX32ozHY",
+    "n_trades": 18,
+    "n_buys": 9,
+    "n_sells": 9,
+    "volume_usd": 1135.08,
+    "buy_ratio": 0.5,
+    "n_closed": 14,
+    "win_rate": 0.0,
+    "pf": 0.0,
+    "avg_ret": -1.01,
+    "pnl_sol": -0.082,
+    "avg_hold_min": -6.3,
+    "closed_trades": [
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.013976590542358891,
+        "pnl_sol": -0.010262401000000088,
+        "hold_sec": 46
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.0146452310347851,
+        "pnl_sol": -0.0068010070000000256,
+        "hold_sec": 55
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.011982503215516083,
+        "pnl_sol": -0.008295777461474363,
+        "hold_sec": -359
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.011996842096341553,
+        "pnl_sol": -0.007487239013897695,
+        "hold_sec": -261
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.013712850431350176,
+        "pnl_sol": -0.010285381019129791,
+        "hold_sec": -667
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.009745556006494516,
+        "pnl_sol": -0.008640148171907946,
+        "hold_sec": -776
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.003274433918827757,
+        "pnl_sol": -0.0028757843179763043,
+        "hold_sec": -978
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.013666747694376036,
+        "pnl_sol": -0.003175822224619984,
+        "hold_sec": -56
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.004673652511408388,
+        "pnl_sol": -0.0024869093723878244,
+        "hold_sec": -166
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.006021506382859143,
+        "pnl_sol": -0.005016869893428866,
+        "hold_sec": -262
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.010399756379907532,
+        "pnl_sol": -0.003458196750417031,
+        "hold_sec": -572
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.0054284994431789135,
+        "pnl_sol": -0.003948791822374731,
+        "hold_sec": -785
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.012789189264878709,
+        "pnl_sol": -0.00834158740595392,
+        "hold_sec": -150
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.009135011007151306,
+        "pnl_sol": -0.0009636007508664335,
+        "hold_sec": -349
+      }
+    ],
+    "source": "rpc"
+  },
+  {
+    "wallet": "4Gta5syjygRza69Wtk6BnJmZfv6eugcPrPoYfyTBeRDb",
+    "n_trades": 18,
+    "n_buys": 9,
+    "n_sells": 9,
+    "volume_usd": 883.29,
+    "buy_ratio": 0.5,
+    "n_closed": 5,
+    "win_rate": 0.0,
+    "pf": 0.0,
+    "avg_ret": -0.68,
+    "pnl_sol": -0.0109,
+    "avg_hold_min": -2.3,
+    "closed_trades": [
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.00960579942966655,
+        "pnl_sol": -0.004351386000000013,
+        "hold_sec": 55
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.008181296810387928,
+        "pnl_sol": -0.000839301713092655,
+        "hold_sec": 146
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.004044392359946691,
+        "pnl_sol": -0.003332534730256964,
+        "hold_sec": -165
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.004497669524735959,
+        "pnl_sol": -0.000938573349664712,
+        "hold_sec": -155
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.007435553522480598,
+        "pnl_sol": -0.0014634996294545788,
+        "hold_sec": -563
+      }
+    ],
+    "source": "rpc"
+  },
+  {
+    "wallet": "3wDALH2rzSy8SCJsNW7go7RGGKPoNMzqr5Ne9i7Xm3Ut",
+    "n_trades": 18,
+    "n_buys": 9,
+    "n_sells": 9,
+    "volume_usd": 883.39,
+    "buy_ratio": 0.5,
+    "n_closed": 8,
+    "win_rate": 0.0,
+    "pf": 0.0,
+    "avg_ret": -3.13,
+    "pnl_sol": -0.1545,
+    "avg_hold_min": -9.0,
+    "closed_trades": [
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.034020621775588955,
+        "pnl_sol": -0.01577732000000004,
+        "hold_sec": 41
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.03253539348783263,
+        "pnl_sol": -0.024627744595354106,
+        "hold_sec": 47
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.03302403445755331,
+        "pnl_sol": -0.02215531782591873,
+        "hold_sec": -56
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.03448933430378509,
+        "pnl_sol": -0.012501452632880883,
+        "hold_sec": -163
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.02554514478021419,
+        "pnl_sol": -0.019617010514484945,
+        "hold_sec": -786
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.025927168409997314,
+        "pnl_sol": -0.013817366921724306,
+        "hold_sec": -897
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.030767805063325215,
+        "pnl_sol": -0.024962502323154667,
+        "hold_sec": -1006
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.03422737519266239,
+        "pnl_sol": -0.021072953937370076,
+        "hold_sec": -1521
+      }
+    ],
+    "source": "rpc"
+  },
+  {
+    "wallet": "515qbBuxybUHVX5yRCYRRjZnomGAPDDRuJJG41xDgDWX",
+    "n_trades": 18,
+    "n_buys": 9,
+    "n_sells": 9,
+    "volume_usd": 776.63,
+    "buy_ratio": 0.5,
+    "n_closed": 8,
+    "win_rate": 0.0,
+    "pf": 0.0,
+    "avg_ret": -2.53,
+    "pnl_sol": -9.25,
+    "avg_hold_min": 0.9,
+    "closed_trades": [
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.025529068444725467,
+        "pnl_usd": -2.025102338623981,
+        "hold_sec": 53
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.02783952530521705,
+        "pnl_usd": -1.3855757203479868,
+        "hold_sec": 51
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.024308430954100513,
+        "pnl_usd": -0.735592897487706,
+        "hold_sec": 59
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.0272987733282406,
+        "pnl_usd": -1.1804517484462735,
+        "hold_sec": 52
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.02575598094822973,
+        "pnl_usd": -0.4832809770167543,
+        "hold_sec": 50
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.02477549060190809,
+        "pnl_usd": -1.2138101457285018,
+        "hold_sec": 49
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.025166579783791554,
+        "pnl_usd": -1.5200722697490647,
+        "hold_sec": 48
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.02206646346376606,
+        "pnl_usd": -0.7036369959252724,
+        "hold_sec": 52
+      }
+    ],
+    "source": "gecko"
+  },
+  {
+    "wallet": "6rMAFF6mam122YMxD7JeG2KtRzigUoME98hCTcKtx5kw",
+    "n_trades": 18,
+    "n_buys": 9,
+    "n_sells": 9,
+    "volume_usd": 969.16,
+    "buy_ratio": 0.5,
+    "n_closed": 6,
+    "win_rate": 0.0,
+    "pf": 0.0,
+    "avg_ret": -2.4,
+    "pnl_sol": -0.0788,
+    "avg_hold_min": -28.8,
+    "closed_trades": [
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.0312850963298974,
+        "pnl_sol": -0.028085426056556395,
+        "hold_sec": -161
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.019065417078032887,
+        "pnl_sol": -0.01704136895037478,
+        "hold_sec": -1834
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.022331330810501204,
+        "pnl_sol": -0.0048895427765229815,
+        "hold_sec": -1938
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.023737536156062444,
+        "pnl_sol": -0.008780903820509667,
+        "hold_sec": -2042
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.02478385328797761,
+        "pnl_sol": -0.004838460281538559,
+        "hold_sec": -2139
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.022813258191644925,
+        "pnl_sol": -0.01521330068021598,
+        "hold_sec": -2244
+      }
+    ],
+    "source": "rpc"
+  },
+  {
+    "wallet": "9cyt6WZFVNxscCnbabEwXBsfSygnAPhmxB3JcY13RVR1",
+    "n_trades": 17,
+    "n_buys": 9,
+    "n_sells": 8,
+    "volume_usd": 806.25,
+    "buy_ratio": 0.529,
+    "n_closed": 12,
+    "win_rate": 0.0,
+    "pf": 0.0,
+    "avg_ret": -2.22,
+    "pnl_sol": -0.137,
+    "avg_hold_min": -10.6,
+    "closed_trades": [
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.027940750798033487,
+        "pnl_sol": -0.01318909566889892,
+        "hold_sec": -52
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.02493574623477557,
+        "pnl_sol": -0.0093013395196207,
+        "hold_sec": -59
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.02470955491946558,
+        "pnl_sol": -0.0054209042544300645,
+        "hold_sec": -470
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.02720502984126194,
+        "pnl_sol": -0.018609099617474034,
+        "hold_sec": -678
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.016716451508905217,
+        "pnl_sol": -0.01388163850987667,
+        "hold_sec": -1194
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.004470080072029425,
+        "pnl_sol": -0.001090653192646146,
+        "hold_sec": -1410
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.004032324415783939,
+        "pnl_sol": -0.0032546898289159687,
+        "hold_sec": -1304
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.026106525617409226,
+        "pnl_sol": -0.004170468290264656,
+        "hold_sec": -256
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.028191769949011403,
+        "pnl_sol": -0.02245629256486592,
+        "hold_sec": -474
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.025325338224691962,
+        "pnl_sol": -0.020906268743536516,
+        "hold_sec": -367
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.02803875686935764,
+        "pnl_sol": -0.008385909391240232,
+        "hold_sec": -582
+      },
+      {
+        "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+        "return": -0.028474767164676562,
+        "pnl_sol": -0.01631802241590552,
+        "hold_sec": -780
+      }
+    ],
+    "source": "rpc"
+  },
+  {
+    "wallet": "KcBEDyQg7afrCqErZVKeVznwQeHyoP9Xu7AgMRVrJCT",
+    "n_trades": 15,
+    "n_buys": 2,
+    "n_sells": 13,
+    "volume_usd": 1063.02,
+    "buy_ratio": 0.133,
+    "n_closed": 4,
+    "win_rate": 0.0,
+    "pf": 0.0,
+    "avg_ret": -0.4,
+    "pnl_sol": -1.08,
+    "avg_hold_min": 0.0,
+    "closed_trades": [
+      {
+        "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+        "return": -0.00399600499050623,
+        "pnl_usd": -0.2693547919682544,
+        "hold_sec": 0
+      },
+      {
+        "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+        "return": -0.003996411215492102,
+        "pnl_usd": -0.2567129150871992,
+        "hold_sec": 1
+      },
+      {
+        "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+        "return": -0.003996001424750983,
+        "pnl_usd": -0.28000725388592684,
+        "hold_sec": 0
+      },
+      {
+        "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+        "return": -0.003998078129598959,
+        "pnl_usd": -0.27222274307037253,
+        "hold_sec": 1
+      }
+    ],
+    "source": "gecko"
+  },
+  {
+    "wallet": "CUK1yKAUxJMPWWz27EqLsu7EwGk27At6PWqiHaSvWU2e",
+    "n_trades": 12,
+    "n_buys": 7,
+    "n_sells": 5,
+    "volume_usd": 1186.51,
+    "buy_ratio": 0.583,
+    "n_closed": 5,
+    "win_rate": 0.0,
+    "pf": 0.0,
+    "avg_ret": -2.28,
+    "pnl_sol": -14.72,
+    "avg_hold_min": 6.6,
+    "closed_trades": [
+      {
+        "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz",
+        "return": -0.020400046455505638,
+        "pnl_usd": -2.0876539691057303,
+        "hold_sec": 117
+      },
+      {
+        "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz",
+        "return": -0.019986845579537227,
+        "pnl_usd": -2.063418015723883,
+        "hold_sec": 226
+      },
+      {
+        "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz",
+        "return": -0.02650348518497292,
+        "pnl_usd": -4.001452812918501,
+        "hold_sec": 766
+      },
+      {
+        "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz",
+        "return": -0.02622437047305015,
+        "pnl_usd": -3.6843387512056154,
+        "hold_sec": 806
+      },
+      {
+        "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz",
+        "return": -0.020982664283942798,
+        "pnl_usd": -2.887722255677346,
+        "hold_sec": 69
+      }
+    ],
+    "source": "gecko"
+  },
+  {
+    "wallet": "CoCZxCTD6ACzbJUqHk2d3asWiAcmEqQCBPFRPZZdw19t",
+    "n_trades": 9,
+    "n_buys": 2,
+    "n_sells": 7,
+    "volume_usd": 1145.44,
+    "buy_ratio": 0.222,
+    "n_closed": 5,
+    "win_rate": 0.0,
+    "pf": 0.0,
+    "avg_ret": -0.38,
+    "pnl_sol": -2.04,
+    "avg_hold_min": 0.1,
+    "closed_trades": [
+      {
+        "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+        "return": -0.003996743872580644,
+        "pnl_usd": -0.32720275058659354,
+        "hold_sec": 1
+      },
+      {
+        "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+        "return": -0.00399882062482837,
+        "pnl_usd": -0.4648602474771195,
+        "hold_sec": 3
+      },
+      {
+        "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+        "return": -0.003998820920760093,
+        "pnl_usd": -0.29501835922836506,
+        "hold_sec": 4
+      },
+      {
+        "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+        "return": -0.003533126304225309,
+        "pnl_usd": -0.4977017332459184,
+        "hold_sec": 4
+      },
+      {
+        "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+        "return": -0.0035580533220599397,
+        "pnl_usd": -0.4516321170304707,
+        "hold_sec": 5
+      }
+    ],
+    "source": "gecko"
+  },
+  {
+    "wallet": "9KYzDv7hNLsP484pbeMM3VH52CvwsRhJuu4UxTStFtqX",
+    "n_trades": 8,
+    "n_buys": 2,
+    "n_sells": 6,
+    "volume_usd": 1172.06,
+    "buy_ratio": 0.25,
+    "n_closed": 3,
+    "win_rate": 0.0,
+    "pf": 0.0,
+    "avg_ret": -0.4,
+    "pnl_sol": -1.25,
+    "avg_hold_min": 0.0,
+    "closed_trades": [
+      {
+        "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+        "return": -0.00399674335926703,
+        "pnl_usd": -0.42029470765439214,
+        "hold_sec": 1
+      },
+      {
+        "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+        "return": -0.003996744056278589,
+        "pnl_usd": -0.42161977791356264,
+        "hold_sec": 1
+      },
+      {
+        "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+        "return": -0.003998821146861897,
+        "pnl_usd": -0.4097258537935744,
+        "hold_sec": 2
+      }
+    ],
+    "source": "gecko"
+  },
+  {
+    "wallet": "9MDy7bu3jHMNXbbUfWWLwwgLnkY2y8GDuxY567QhqWKt",
+    "n_trades": 6,
+    "n_buys": 2,
+    "n_sells": 4,
+    "volume_usd": 366.28,
+    "buy_ratio": 0.333,
+    "n_closed": 3,
+    "win_rate": 0.0,
+    "pf": 0.0,
+    "avg_ret": -0.37,
+    "pnl_sol": -0.44,
+    "avg_hold_min": 0.2,
+    "closed_trades": [
+      {
+        "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+        "return": -0.003993946538297877,
+        "pnl_usd": -0.24636063346917325,
+        "hold_sec": 6
+      },
+      {
+        "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+        "return": -0.003993948554196436,
+        "pnl_usd": -0.1198759149405042,
+        "hold_sec": 7
+      },
+      {
+        "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+        "return": -0.003021686849784655,
+        "pnl_usd": -0.07261310467532667,
+        "hold_sec": 20
+      }
+    ],
+    "source": "gecko"
+  }
+]

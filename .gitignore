@@ -1,0 +1,14 @@
+*.pid
+*.log
+data/paper_state_*
+data/paper_status_*
+data/paper_lock_*
+data/*soak*
+data/guardian*
+data/executor_log*
+data/tg_chat_id*
+data/cache_*
+data/__pycache__/
+__pycache__/
+.env
+*.tmp

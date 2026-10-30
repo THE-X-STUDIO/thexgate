@@ -1,0 +1,15 @@
+name: ping thexgate
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ping
+        if: ${{ vars.PING_URL != '' }}
+        run: |
+          code=$(curl -sS -o /dev/null -w "%{http_code}" --max-time 60 "${{ vars.PING_URL }}/health")
+          echo "health: $code"
+          test "$code" = "200" || test "$code" = "503" || exit 0
