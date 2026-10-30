@@ -205,6 +205,24 @@ def full():
         return jsonify({"ok": False, "err": str(e)[:200]}), 200
 
 
+def keepalive_loop():
+    """Self-ping our public /health every 5 min — counts as inbound traffic,
+    defeats Render free idle spin-down. Public URL auto-injected as RENDER_EXTERNAL_URL."""
+    url = os.environ.get("RENDER_EXTERNAL_URL") or os.environ.get("GATE_PUBLIC_URL", "")
+    if not url:
+        slog("keepalive: no public URL env - skipped")
+        return
+    import requests
+    while True:
+        try:
+            r = requests.get(url + "/health", timeout=30)
+            slog(f"keepalive ping {r.status_code}")
+        except Exception as e:
+            slog(f"keepalive err {e!r}")
+        time.sleep(300)
+
+
 if __name__ == "__main__":
+    threading.Thread(target=keepalive_loop, daemon=True).start()
     threading.Thread(target=runner_loop, daemon=True).start()
     app.run(host="0.0.0.0", port=int(os.environ.get("PORT", "10000")), threaded=True)
