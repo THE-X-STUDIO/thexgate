@@ -8,15 +8,17 @@ WALLETS_FILE = os.path.join(DATA_DIR, "wallets.json")
 SOL_MINT_CFG = SOL_MINT
 
 # --- MONEY CONFIG (pinned — authoritative over shared config.py; parallel session races it) ---
-MONEY_ENTRY_MIN = 7200    # 2h — survivor window (backtest PASS)
-MONEY_ENTRY_MAX = 21600   # 6h
-MONEY_VOL5_MIN = 800.0    # vol_spike_2x lever (best config: WR 47.9 PF 2.13 DD 21.4)
-MONEY_TP_MULT = 2.0
-MONEY_SL_PCT = -30.0
-MONEY_TIME_EXIT = 3600
+# Values can be overridden via env (cloud deploy keeps real values in envvars, not code)
+SURVIVAL_MIN_PRICE_RATIO = float(os.environ.get("GATE_PRICE_RATIO", str(SURVIVAL_MIN_PRICE_RATIO)))
+MONEY_ENTRY_MIN = int(os.environ.get("GATE_ENTRY_MIN", "7200"))    # 2h — survivor window (backtest PASS)
+MONEY_ENTRY_MAX = int(os.environ.get("GATE_ENTRY_MAX", "21600"))   # 6h
+MONEY_VOL5_MIN = float(os.environ.get("GATE_VOL5_MIN", "800.0"))   # vol_spike_2x lever (best: WR 47.9 PF 2.13 DD 21.4)
+MONEY_TP_MULT = float(os.environ.get("GATE_TP_MULT", "2.0"))
+MONEY_SL_PCT = float(os.environ.get("GATE_SL_PCT", "-30.0"))
+MONEY_TIME_EXIT = int(os.environ.get("GATE_TIME_EXIT", "3600"))
 MONEY_SIZE_FRAC = 0.2
 MONEY_DAILY_KILL = 0.6    # pause if pot < 60% of day-start (−40%)
-MONEY_LIQ_MIN = 1500.0
+MONEY_LIQ_MIN = float(os.environ.get("GATE_LIQ_MIN", "1500.0"))
 
 def paths(tag):
     return {
