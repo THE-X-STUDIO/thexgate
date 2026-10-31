@@ -207,8 +207,11 @@ def full():
 
 def keepalive_loop():
     """Self-ping our public /health every 5 min — counts as inbound traffic,
-    defeats Render free idle spin-down. Public URL auto-injected as RENDER_EXTERNAL_URL."""
-    url = os.environ.get("RENDER_EXTERNAL_URL") or os.environ.get("GATE_PUBLIC_URL", "")
+    defeats free-tier idle spin-down. URL: Render injects RENDER_EXTERNAL_URL,
+    Hugging Face Spaces injects SPACE_URL."""
+    url = (os.environ.get("RENDER_EXTERNAL_URL")
+           or os.environ.get("SPACE_URL")
+           or os.environ.get("GATE_PUBLIC_URL", ""))
     if not url:
         slog("keepalive: no public URL env - skipped")
         return
